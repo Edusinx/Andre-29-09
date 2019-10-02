@@ -11,9 +11,10 @@ namespace Exercicio1
         static void Main(string[] args)
         {
             int c;
-            for (c = 250; c <= 500; c++) 
+            for (c = 1; c <= 500; c++) 
             {
                 Console.WriteLine(c);
+                Console.WriteLine("Aluno B primeiro GIT");
             }
             Console.ReadKey();
         }
