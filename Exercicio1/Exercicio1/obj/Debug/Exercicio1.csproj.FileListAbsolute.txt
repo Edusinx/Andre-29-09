@@ -1,0 +1,7 @@
+C:\Users\aluno2\Source\Repos\Exercicio1\Exercicio1\bin\Debug\Exercicio1.exe.config
+C:\Users\aluno2\Source\Repos\Exercicio1\Exercicio1\bin\Debug\Exercicio1.exe
+C:\Users\aluno2\Source\Repos\Exercicio1\Exercicio1\bin\Debug\Exercicio1.pdb
+C:\Users\aluno2\Source\Repos\Exercicio1\Exercicio1\obj\Debug\Exercicio1.csprojAssemblyReference.cache
+C:\Users\aluno2\Source\Repos\Exercicio1\Exercicio1\obj\Debug\Exercicio1.csproj.CoreCompileInputs.cache
+C:\Users\aluno2\Source\Repos\Exercicio1\Exercicio1\obj\Debug\Exercicio1.exe
+C:\Users\aluno2\Source\Repos\Exercicio1\Exercicio1\obj\Debug\Exercicio1.pdb
