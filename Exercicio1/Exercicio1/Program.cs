@@ -15,6 +15,7 @@ namespace Exercicio1
             {
                 Console.WriteLine(c);
                 Console.WriteLine("Aluno B primeiro GIT");
+                Console.WriteLine("Aluno A segundo commit (andré Sarras Bar)")
             }
             Console.ReadKey();
         }
