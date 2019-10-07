@@ -19,6 +19,7 @@ namespace Exercicio1
                 Console.WriteLine("Aluno B segundo commit (vocêprecisalevaraserioépraentregar)");
                 Console.WriteLine("Aluno A terceiro commit");
                 Console.WriteLine("Aluno B terceiro commit");
+                Console.WriteLine("Aluno A quarto commit");
 
             }
             Console.ReadKey();
