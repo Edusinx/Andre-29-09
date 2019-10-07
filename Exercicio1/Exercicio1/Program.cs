@@ -17,6 +17,7 @@ namespace Exercicio1
                 Console.WriteLine("Aluno B primeiro GIT");
                 Console.WriteLine("Aluno A segundo commit (andré Sarras Bar)");
                 Console.WriteLine("Aluno B segundo commit (vocêprecisalevaraserioépraentregar)");
+                Console.WriteLine("Aluno A terceiro commit");
             }
             Console.ReadKey();
         }
